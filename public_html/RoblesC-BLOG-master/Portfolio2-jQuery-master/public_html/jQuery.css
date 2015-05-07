@@ -1,0 +1,20 @@
+//*this is specificaly the page for the jquery page that will  be linked to the original website *//
+#randPara{
+    border:solid 2px black;
+    color:blue;
+    /*this selects the items of the jquery page to make them into whatever we code*/
+}
+#removePara{
+    border:solid 2px yellow;
+    color:orangered;
+    /*the part that codes for the color of the id #removepara*/
+}
+html{
+    background-color: yellowgreen;
+    font-size:18px; 
+    /*background color for the jquery page*/
+}
+a{
+    font-size: 36px;
+    /*size of the link that takes the user back to the about me page*/
+}
